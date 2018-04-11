@@ -36,7 +36,10 @@
     "standard": "8.4.0",
     "standard-markdown": "2.2.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "path-browserify": "0.0.0",
+    "react-native-fs": "2.9.11"
+  },
   "engines": {
     "node": ">=4.6.0"
   }
